@@ -10,7 +10,10 @@ Courses completed to date:
 
 **Spring 2025** 
 - Machine Learning Methods
-- Math Clinic
+- Bayesian Statistics
 - Applied Analysis
 
+**Fall 2025**
+- Time Series
+- Statistical & Machine Learning
 This GitHub Repository walks through some of my projects addressed within my Masters coursework. If you have any questions regarding any of the material, please feel free to contact me. I mostly will use Python and R. 
