@@ -2,7 +2,6 @@
 University of Colorado Denver MS Applied Mathematics Portfolio
 Madison Poore 
 
-Courses completed to date: 
 **Fall 2024**
 - Applied Linear Algebra
 - Linear Programming
